@@ -42,4 +42,8 @@ Temporary Items
 # Ignore all local history of files
 .history
 
+
+### ORIGINAL WEBSITE ###
+original
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode
